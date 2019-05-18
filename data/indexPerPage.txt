@@ -1,0 +1,292 @@
+--------------- 1 ---------------
+König, Oliver
+König, René
+König, René
+von Aleman, Heine
+--------------- 2 ---------------
+Retzer, Arnold
+Retzer, Arnold
+--------------- 3 ---------------
+Adorno, W.
+Horkheimer, Max
+König, René
+Schelsky, Helmut
+Kaufmann, Franz-Xaver
+Meyer, T.
+Nave-Herz, Rosemarie
+Peukert, Rüdiger
+Vaskovics, Laszlo
+Nave-Herz, Rosemarie
+Vaskovics, Laszlo
+Schwägler, Georg
+Fux, Beat
+--------------- 4 ---------------
+Durkheim, Emile
+Riehl, Wilhelm H.
+Riehl, Wilhelm H.
+König, René
+Riehl, Wilhelm H.
+Durkheim, Emile
+König, René
+Riehl, Wilhelm H.
+König, René
+Weber, Max
+--------------- 5 ---------------
+Riehl, Wilhelm H.
+König, René
+Ogburn, William
+König, René
+König, René
+König, René
+König, René
+Beck, Ulrich
+Horkheimer, Max
+Horkheimer, Max
+Adorno, W.
+Sahner, Heinz
+Horkheimer, Max
+König, René
+Zürcher, Markus
+Schelsky, Helmut
+König, René
+Adorno, W.
+Horkheimer, Max
+--------------- 6 ---------------
+König, René
+Rammstedt, Otthein
+König, René
+Thurnwald, Hilde
+Wurzbacher, Gerhard
+Schelsky, Helmut
+Baumert, Gerhard
+Horkheimer, Max
+Adorno, W.
+Baumert, Gerhard
+König, René
+König, René
+Mitscherlich, Alexander
+Claessens, Dieter
+König, René
+Freud
+Mitscherlich, Alexander
+Toman, Walter
+Peukert, Rüdiger
+Tyrell, Hartmann
+Nave-Herz, Rosemarie
+Herlth, A.
+--------------- 7 ---------------
+König, René
+Schelsky, Helmut
+Schelsky, Helmut
+König, René
+Walter, Wolfgang
+Wurzbacher, Gerhard
+Mayntz, Renate
+Wurzbacher, Gerhard
+König, René
+König, René
+König, René
+--------------- 8 ---------------
+Kaufmann, Franz-Xaver
+Kaufmann, Franz-Xaver
+Neidhardt, Friedhelm
+Walter, Wolfgang
+Parsons, Talcott
+Parsons, Talcott
+Bales, Robert F.
+Cooper, David
+Sahner, Heinz
+Habermas, Jürgen
+Luhmann, Niklas
+Luhmann, Niklas
+Luhmann, Niklas
+Luhmann, Niklas
+--------------- 9 ---------------
+Neidhardt, Friedhelm
+Tyrell, Hartmann
+König, René
+König, René
+Rosenbaum, Heidi
+König, René
+König, René
+Lüschen, Günther
+Lupri, Eugen
+Claessens, Dieter
+Claessens, Dieter
+Menne
+Lüschen, Günther
+Lupri, Eugen
+Beck, Ulrich
+Kaufmann, Franz-Xaver
+König, René
+Neidhardt, Friedhelm
+König, René
+Durkheim, Emile
+Aries, Phillipe
+Conze, Werner
+Mitterauer, Michael
+Sieder
+Rosenbaum, Heidi
+Sieder
+Weber-Kellermann, Ingeborg
+Rosenbaum, Heidi
+--------------- 10 ---------------
+König, René
+Nave-Herz, Rosemarie
+Parsons, Talcott
+Bales, Robert F.
+Parsons, Talcott
+Bales, Robert F.
+Beck-Gernsheim, Elisabeth
+Resch, Marianne G.
+Beck, Ulrich
+Beck, Ulrich
+Zapf, Wolfgang
+Beck, Ulrich
+Beck, Ulrich
+Beck, Ulrich
+Beck, Ulrich
+Beck-Gernsheim, Elisabeth
+--------------- 11 ---------------
+König, René
+Napp-Peters, Anneke
+Giesecke, Hermann
+Huinink, Johannes
+Bernstein, Anne C.
+Ley, Katharina
+Barer
+Furstenberg, Frank u a
+Furstenberg, Frank u a
+Meyer, Sibylle
+Schulze
+Gross, Peter
+Honer
+Nauck, Bernhard
+Gerhardt, Uta
+Fux, Beat
+König, René
+Durkheim, Emile
+Parsons, Talcott
+Toman, Walter
+König, René
+Herlth, A.
+Vaskovics, Laszlo
+Nauck, Bernhard
+Beck, Ulrich
+Nauck, Bernhard
+Gerhardt, Uta
+--------------- 12 ---------------
+Nave-Herz, Rosemarie
+Neidhardt, Friedhelm
+Mayer
+Zapf, Wolfgang
+Durkheim, Emile
+Zapf, Wolfgang
+Hellinger, Bert
+Hellinger, Bert
+Simon, Fritz
+Retzer, Arnold
+Buchholz, Michael B.
+Kaufmann, Franz-Xaver
+--------------- 13 ---------------
+Hradil, Stefan
+Zapf, Wolfgang
+König, René
+König, René
+Beck, Ulrich
+Luhmann, Niklas
+Habermas, Jürgen
+Korte, Helmut
+Schelsky, Helmut
+Adorno, W.
+Schelsky, Helmut
+--------------- 14 ---------------
+König, René
+Fröhlich, Gustav
+König, René
+--------------- 15 ---------------
+Adorno, W.
+von Aleman, Heine
+Kunz
+Aries, Phillipe
+Baumert, Gerhard
+Beck, Ulrich
+Beck, Ulrich
+Beck-Gernsheim, Elisabeth
+Bernstein, Anne C.
+Bertram, Hans
+Beuys, Barbara
+Buchholz, Michael B.
+Claessens, Dieter
+Claessens, Dieter
+Conze, Werner
+Cooper, David
+Furstenberg, Frank u a
+Furstenberg, Frank u a
+Fux, Beat
+Gerhardt, Uta
+Hradil, Stefan
+Lucke
+Giesecke, Hermann
+Gross, Peter
+Honer
+Habermas, Jürgen
+Luhmann, Niklas
+Hellinger, Bert
+Herlth, A.
+Brenner, E. J.
+Tyrell, Hartmann
+Kriz, J. H.
+Horkheimer, Max
+Huinink, Johannes
+Kaufmann, Franz-Xaver
+König, René
+--------------- 16 ---------------
+Korte, Helmut
+Ley, Katharina
+Barer
+Lüschen, Günther
+Lupri, Eugen
+Lüscher, Kurt
+Wehrspann, W.
+Lange, A.
+Luhmann, Niklas
+Meyer, Sibylle
+Schulze
+Meyer, Sibylle
+Schulze
+Meyer, Sibylle
+Schulze
+Meyer, T.
+Mitscherlich, Alexander
+Mitterauer, Michael
+Sieder
+Napp-Peters, Anneke
+Nauck, Bernhard
+Nave-Herz, Rosemarie
+Nave-Herz, Rosemarie
+Markefka
+Neidhardt, Friedhelm
+Parsons, Talcott
+Bales, Robert F.
+Peukert, Rüdiger
+Rammstedt, Otthein
+Resch, Marianne G.
+Riehl, Wilhelm H.
+--------------- 17 ---------------
+Rosenbaum, Heidi
+Sahner, Heinz
+Schelsky, Helmut
+Simon, Fritz
+Retzer, Arnold
+Schwägler, Georg
+Swientek, Chrstine
+Thurnwald, Hilde
+Toman, Walter
+Tyrell, Hartmann
+Vaskovics, Laszlo
+Walter, Wolfgang
+Weber-Kellermann, Ingeborg
+Wurzbacher, Gerhard
+Zapf, Wolfgang
+Zürcher, Markus

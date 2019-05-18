@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE indexdata PUBLIC "-//JDOM//DTD validation 1.0//EN" "ixml.dtd">
+<indexdata>
+  <source creator="nel" version="1.0" time="2016-10-23T01:08:42" />
+  <fonts>
+    <font id="0">
+      <fname>Arial</fname>
+      <aname>Arial</aname>
+    </font>
+  </fonts>
+  <records>
+    <record time="2016-10-23T01:08:42">
+      <field>Adebe</field>
+      <field>23, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Aitken</field>
+      <field>31, 35, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Alanen</field>
+      <field>15, 20, 22, 33, 37, 39, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Alderson</field>
+      <field>22, 23, 24, 36, 37, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Allport</field>
+      <field>8, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Als</field>
+      <field>24, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ambert</field>
+      <field>7, 8, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Andrews</field>
+      <field>24, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ansell</field>
+      <field>23, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ariès</field>
+      <field>10, 12, 16, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Armstrong</field>
+      <field>14, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Attias-Donfut</field>
+      <field>32, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Balagopalan</field>
+      <field>29, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Baldwin</field>
+      <field>40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Baraldi</field>
+      <field>34, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bardy</field>
+      <field>17, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Barker</field>
+      <field>26, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bass</field>
+      <field>6, 33, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Becker</field>
+      <field>12, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bendelow</field>
+      <field>26, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>von Bertalanffy</field>
+      <field>8</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bettelheim</field>
+      <field>10, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bhaskar</field>
+      <field>37</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>van Blerk</field>
+      <field>23, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>de Block</field>
+      <field>26, 27, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bluebond-Langner</field>
+      <field>26, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Boltanski</field>
+      <field>32</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Boulton, A.</field>
+      <field>24, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Boulton, M.B.</field>
+      <field>15, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bourdieu</field>
+      <field>13, 26, 32, 37, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Boyden</field>
+      <field>18, 23, 24, 28, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bradley</field>
+      <field>5, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Braga</field>
+      <field>32</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Brayield</field>
+      <field>7, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bronfenbrenner</field>
+      <field>8, 9, 11, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Brougère</field>
+      <field>32, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Büchner</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Buckingham</field>
+      <field>24, 27, 40, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Bulger</field>
+      <field>11</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Burman</field>
+      <field>3, 4, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Burr</field>
+      <field>2, 28, 41, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Butler</field>
+      <field>24, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Cassell</field>
+      <field>27, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>de Castro</field>
+      <field>33, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Christensen</field>
+      <field>22, 24, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Clark</field>
+      <field>23, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Clausen</field>
+      <field>6</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Clinton</field>
+      <field>8</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Cohen</field>
+      <field>16, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Cole</field>
+      <field>10, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Connolly</field>
+      <field>24, 37, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Contratto</field>
+      <field>15, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Corsaro, B.</field>
+      <field>6</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Corsaro, W.A.</field>
+      <field>2, 23, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Craib</field>
+      <field>6, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Cunningham</field>
+      <field>16, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Curtis</field>
+      <field>24</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>van Daalen</field>
+      <field>34, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Danziger</field>
+      <field>9, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Darwin</field>
+      <field>3, 7</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>David</field>
+      <field>16, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Davin</field>
+      <field>17, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Dencik</field>
+      <field>19, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Denzin</field>
+      <field>9, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Dunn</field>
+      <field>13, 24, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Durkheim</field>
+      <field>21, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Edwards</field>
+      <field>22, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Elkin</field>
+      <field>9, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ellis</field>
+      <field>24</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Engwall</field>
+      <field>21, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ennew</field>
+      <field>17, 23, 24, 31, 40, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Fischer-Kowalski</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Flapan</field>
+      <field>9, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Foley</field>
+      <field>2, 26, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>la Fontaine</field>
+      <field>17, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Fortes</field>
+      <field>12, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Foster</field>
+      <field>15, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Foucault</field>
+      <field>13</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Gardner</field>
+      <field>24, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Garnier</field>
+      <field>19, 32, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Gesell</field>
+      <field>4</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Geulen</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Glauser</field>
+      <field>18</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Goffman</field>
+      <field>12, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Gollop</field>
+      <field>49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Goodey</field>
+      <field>24, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Görzig</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Gottlieb</field>
+      <field>5, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Graham</field>
+      <field>14, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Greene</field>
+      <field>7, 9, 22, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Haddon</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Haines</field>
+      <field>37, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hall</field>
+      <field>12, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Halldén</field>
+      <field>15, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Handel</field>
+      <field>9, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hanson</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Harden</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hart</field>
+      <field>24, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hawthorne</field>
+      <field>24, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hendrick</field>
+      <field>3, 4, 16, 17, 18, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hengst</field>
+      <field>37, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hobbs</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hochschild</field>
+      <field>26, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hodge</field>
+      <field>26, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hogan</field>
+      <field>22, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Holdsworth</field>
+      <field>11, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Holloway</field>
+      <field>27, 31, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Holt</field>
+      <field>31, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hood</field>
+      <field>24, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Horton</field>
+      <field>31, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hughes</field>
+      <field>13, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Hutchby</field>
+      <field>7, 22, 24, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ingram</field>
+      <field>37, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>James, A.L.</field>
+      <field>2, 36, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>James, Allison</field>
+      <field>2, 7, 8, 17, 18, 22, 24, 41, 44, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Jane</field>
+      <field>2</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Jebb</field>
+      <field>6</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Jenkins, H.</field>
+      <field>27, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Jenkins, R.</field>
+      <field>13, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Jenks</field>
+      <field>2, 8, 11, 18, 26, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Jensen</field>
+      <field>22, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>John</field>
+      <field>24, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Karsten</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Katz</field>
+      <field>24, 28, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kaufman</field>
+      <field>27, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kaufmann</field>
+      <field>28</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Keating</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kehily</field>
+      <field>2, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kelly</field>
+      <field>24, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Keniston</field>
+      <field>12, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kessel</field>
+      <field>8, 41, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kessen</field>
+      <field>7, 11, 41, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Khan</field>
+      <field>24, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Killen</field>
+      <field>24, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kirby</field>
+      <field>50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kosminsky</field>
+      <field>33, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kraftl</field>
+      <field>31, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>van Krieken</field>
+      <field>32, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Kulke</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Lansdown</field>
+      <field>22, 24, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>de Lauwe</field>
+      <field>9</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Lavalette</field>
+      <field>21, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Lee</field>
+      <field>35, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Liebel</field>
+      <field>5, 24, 28, 29, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Light</field>
+      <field>18, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Liljeström</field>
+      <field>19, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Lindsay</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Lister</field>
+      <field>25, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Livingstone</field>
+      <field>27, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Mandell</field>
+      <field>23, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Marchant</field>
+      <field>50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Marsh</field>
+      <field>37, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Marshall</field>
+      <field>49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Martin</field>
+      <field>25, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Matthews</field>
+      <field>30, 31, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>May</field>
+      <field>14, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Mayall</field>
+      <field>14, 15, 18, 19, 22, 23, 24, 26, 39, 40, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Maybin</field>
+      <field>2, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>McKechnie</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>McKee</field>
+      <field>22, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Mead</field>
+      <field>10, 12, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Mizen</field>
+      <field>21, 22, 24, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Montandon</field>
+      <field>5, 32, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Montgomery</field>
+      <field>2, 23, 31, 36, 46, 51</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Moran-Ellis</field>
+      <field>7, 18, 22, 44, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Morrow</field>
+      <field>17, 21, 22, 23, 24, 29, 31, 39, 42, 46, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Morss</field>
+      <field>3, 7, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Moss</field>
+      <field>23, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Murray</field>
+      <field>24, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Musgrove</field>
+      <field>12, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Nairn</field>
+      <field>49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Neale</field>
+      <field>24, 47, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>New</field>
+      <field>16, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Nieuwenhuys</field>
+      <field>29, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Oldman</field>
+      <field>17, 21, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Olk</field>
+      <field>20, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Opie, I.</field>
+      <field>47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Opie, P.</field>
+      <field>8, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Orellana</field>
+      <field>6, 29, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Overwien</field>
+      <field>29, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>O’Brien</field>
+      <field>22, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Panelli</field>
+      <field>29, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Parsons</field>
+      <field>6, 12, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Pells</field>
+      <field>29, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Penn</field>
+      <field>16, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Petley</field>
+      <field>26, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Petrie</field>
+      <field>18, 41, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Piaget</field>
+      <field>8</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Pilcher</field>
+      <field>22, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Pole</field>
+      <field>24, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Postman</field>
+      <field>26, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Preuss-Lausitz</field>
+      <field>19, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Prout</field>
+      <field>4, 7, 8, 17, 18, 26, 35, 44, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Punch</field>
+      <field>23, 29, 45, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Qvortrup</field>
+      <field>17, 18, 19, 20, 21, 34, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Rabe-Kleberg</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ransome</field>
+      <field>31</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Recknagel</field>
+      <field>29, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Ribbens</field>
+      <field>15, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Richards</field>
+      <field>18, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Rizzini</field>
+      <field>27, 28, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Robson</field>
+      <field>29, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Roche</field>
+      <field>2</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Rodham</field>
+      <field>8</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Rolff</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Rothman</field>
+      <field>8, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Rousseau</field>
+      <field>12</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Saadi</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Sampson</field>
+      <field>8, 48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Saporiti</field>
+      <field>17</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Schenk</field>
+      <field>23, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Schültze</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Segalen</field>
+      <field>32, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Seidl</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Sgritta</field>
+      <field>17, 20, 48, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Siegel</field>
+      <field>8, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Siisiäinen</field>
+      <field>37, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Silverman</field>
+      <field>14, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Sirota</field>
+      <field>32, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Skolnick</field>
+      <field>7, 8, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Smith, A.</field>
+      <field>24, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Smith, A. B.</field>
+      <field>2, 31, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Smith, D.</field>
+      <field>15, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Smith, F.</field>
+      <field>46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Söderlind</field>
+      <field>21, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Solberg</field>
+      <field>17, 18</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Stacey</field>
+      <field>14, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Stanciulescu</field>
+      <field>33, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Steel</field>
+      <field>50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Stephens</field>
+      <field>5, 28, 31, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Stern</field>
+      <field>24, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Strandell</field>
+      <field>33, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Strong</field>
+      <field>14, 46, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Sutcliffe</field>
+      <field>24, 39</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Swann</field>
+      <field>2, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Tapscott</field>
+      <field>27, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Therborn</field>
+      <field>15, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Thomas</field>
+      <field>24, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Thorne</field>
+      <field>6, 15, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Thunemeyer</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Tizard</field>
+      <field>13, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Tomas</field>
+      <field>33</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Trent</field>
+      <field>5, 6, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Tripp</field>
+      <field>26, 43</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Trobe</field>
+      <field>50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Tucker, F.</field>
+      <field>31, 45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Tucker, S.</field>
+      <field>2, 42</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Valentine</field>
+      <field>27, 31, 44</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Vandenhole</field>
+      <field>45</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Vygotsky</field>
+      <field>10</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wagg</field>
+      <field>22, 47</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Waksler</field>
+      <field>26, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wallace</field>
+      <field>41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wasko</field>
+      <field>27, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Webb</field>
+      <field>37, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Weller</field>
+      <field>25, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wells</field>
+      <field>27, 31, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Westergaard</field>
+      <field>50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>White</field>
+      <field>10, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Whiting</field>
+      <field>10, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Willett</field>
+      <field>27, 41</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Williams</field>
+      <field>26, 40</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Williamson</field>
+      <field>23, 49</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Willow</field>
+      <field>24, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wintersberger</field>
+      <field>20, 48, 50</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wolfenstein</field>
+      <field>10, 46</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Woodhead</field>
+      <field>2, 4, 21, 28, 35, 36, 46, 50, 51</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Wyness</field>
+      <field>2, 3, 51</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Yelland</field>
+      <field>16</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Zeiher</field>
+      <field>19, 20, 43, 46, 48, 51</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Zelizer</field>
+      <field>16, 51</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Zimmerman</field>
+      <field>48</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Zinneker</field>
+      <field>51</field>
+    </record>
+    <record time="2016-10-23T01:08:42">
+      <field>Zuckerman</field>
+      <field>9, 10, 51</field>
+    </record>
+  </records>
+</indexdata>

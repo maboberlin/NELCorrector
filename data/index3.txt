@@ -1,0 +1,813 @@
+--------------- 2 ---------------
+Jane, Mary
+Woodhead, Martin
+Montgomery, H.
+Maybin, J.
+Woodhead, Martin
+Kehily, M. J.
+Swann, J.
+Montgomery, H.
+Burr, Rachel
+Woodhead, Martin
+Jenks, Chris
+Corsaro, W. A.
+Wyness, M.
+Smith, A. B.
+Foley, P. Roche
+Roche
+Tucker, S.
+James, Allison
+James, A.L.
+--------------- 3 ---------------
+Wyness, M.
+Hendrick, Harry
+Burman, Erica
+Darwin
+Burman, Erica
+Morss, J.
+Darwin
+Burman, Erica
+--------------- 4 ---------------
+Burman, Erica
+Prout, Alan
+Hendrick, Harry
+Woodhead, Martin
+Woodhead, Martin
+Woodhead, Martin
+Gesell, Arnold
+--------------- 5 ---------------
+Gottlieb, A.
+Bradley, B. S.
+Stephens, Sharon
+Liebel, M.
+Montandon, Cléopâtre
+Trent, J. W.
+--------------- 6 ---------------
+Parsons, T.
+Craib, I.
+Clausen
+Trent, J. W.
+Bass, Loretta
+Corsaro, Bill
+Thorne, Barrie
+Orellana, M.
+Jebb, Eglantyne
+--------------- 7 ---------------
+Morss, J.
+Greene, S.
+Prout, Alan
+James, Allison
+Hutchby, I.
+Moran-Ellis, J.
+Skolnick, Arlene
+Kessen, W.
+Darwin
+Morss, J.
+Ambert, Anne-Marie
+Brayield, A.
+--------------- 8 ---------------
+Ambert, Anne-Marie
+Opie, Peter
+James, Allison
+Jenks, Chris
+Prout, Alan
+Skolnick, Arlene
+Allport, G.
+Rodham, Hillary
+Clinton
+Rothman, David J.
+Piaget, Jean
+von Bertalanffy
+Skolnick, Arlene
+Sampson, E. E.
+Kessel, F. S.
+Siegel, A. W.
+Bronfenbrenner, Urie
+Skolnick, Arlene
+--------------- 9 ---------------
+Zuckerman, Michael
+Zuckerman, Michael
+Danziger, K.
+Bronfenbrenner, Urie
+Greene, S.
+Greene, S.
+Danziger, K.
+Danziger, K.
+de Lauwe, Chombard
+Denzin, N. K.
+Elkin, F. E.
+Handel, G.
+Flapan, D.
+--------------- 10 ---------------
+Cole, Michael
+White, Sheldon
+Cole, Michael
+Cole, Michael
+Cole, Michael
+Vygotsky
+Vygotsky
+Cole, Michael
+Zuckerman, Michael
+Mead, Margaret
+Wolfenstein, M.
+Whiting, B.
+Bettelheim, Bruno
+Ariès, P.
+--------------- 11 ---------------
+Holdsworth, R.
+Bronfenbrenner, Urie
+Bronfenbrenner, Urie
+Kessen, W.
+Kessen, W.
+Jenks, Chris
+Kessen, W.
+Jenks, Chris
+Jenks, Chris
+Jenks, Chris
+Jenks, Chris
+Bulger, James
+--------------- 12 ---------------
+Mead, Margaret
+Hall, G. Stanley
+Rousseau
+Ariès, P.
+Musgrove, F.
+Keniston, K.
+Fortes, M.
+Parsons, T.
+Goffman, E.
+Becker, H.
+--------------- 13 ---------------
+Jenkins, R.
+Bourdieu, P.
+Tizard, Barbara
+Hughes, Martin
+Dunn, Judy
+Foucault, Michel
+--------------- 14 ---------------
+Armstrong, D.
+Strong, P.
+Silverman, D.
+Strong, P.
+Silverman, D.
+Armstrong, D.
+May, D.
+Strong, P.
+Mayall, B.
+Stacey, Margaret
+Graham, Hilary
+Stacey, Margaret
+--------------- 15 ---------------
+Smith, Dorothy
+Smith, Dorothy
+Smith, Dorothy
+Boulton, M. B.
+Mayall, B.
+Foster, M. C.
+Halldén, G.
+Ribbens, J.
+Mayall, B.
+Thorne, Barrie
+Contratto, S.
+Alanen, Leena
+Alanen, Leena
+Mayall, B.
+Therborn, G.
+--------------- 16 ---------------
+New, C.
+David, M.
+Penn, H.
+Cohen, B.
+Yelland
+Ariès, P.
+Zelizer, Viviana
+Ariès, P.
+Hendrick, Harry
+Cunningham, H.
+--------------- 17 ---------------
+Hendrick, Harry
+Davin, Anna
+la Fontaine
+la Fontaine
+la Fontaine
+Ennew, Judith
+Ennew, Judith
+Qvortrup, Jens
+Ennew, Judith
+Sgritta, Giovanni
+Saporiti, Angelo
+Solberg, Anne
+Oldman, David
+Bardy, Marjatta
+James, Allison
+Prout, Alan
+Morrow, Virginia
+--------------- 18 ---------------
+James, Allison
+Prout, Alan
+Boyden, J.
+Hendrick, Harry
+Solberg, Anne
+Glauser, Benno
+Qvortrup, Jens
+James, Allison
+Prout, Alan
+Jenks, Chris
+Qvortrup, Jens
+Petrie, Pat
+Mayall, B.
+Petrie, Pat
+Prout, Alan
+Moran-Ellis, J.
+Richards, M.
+Richards, M.
+Light, P.
+--------------- 19 ---------------
+Dencik, L.
+Liljeström, Rita
+Garnier, P.
+Zeiher, H.
+Preuss-Lausitz, U.
+Zeiher, H.
+Zeiher, H.
+Qvortrup, Jens
+Mayall, B.
+--------------- 20 ---------------
+Zeiher, H.
+Qvortrup, Jens
+Alanen, Leena
+Alanen, Leena
+Qvortrup, Jens
+Sgritta, Giovanni
+Olk, T.
+Qvortrup, Jens
+Qvortrup, Jens
+Qvortrup, Jens
+Wintersberger, Helmut
+Sgritta, Giovanni
+Wintersberger, Helmut
+Qvortrup, Jens
+Wintersberger, Helmut
+Qvortrup, Jens
+Sgritta, Giovanni
+Wintersberger, Helmut
+Qvortrup, Jens
+Sgritta, Giovanni
+Wintersberger, Helmut
+--------------- 21 ---------------
+Qvortrup, Jens
+Durkheim, E.
+Oldman, David
+Morrow, Virginia
+Mizen, P.
+Lavalette, M.
+Woodhead, Martin
+Engwall, K.
+Söderlind, I.
+Qvortrup, Jens
+Qvortrup, Jens
+Qvortrup, Jens
+--------------- 22 ---------------
+Pilcher, J.
+Wagg, S.
+Alanen, Leena
+Mayall, B.
+Mizen, P.
+Edwards, R.
+Hutchby, I.
+Moran-Ellis, J.
+Christensen, P.
+O’Brien, M.
+Jensen, A. M.
+McKee, L.
+Lansdown, G.
+Christensen, P.
+James, Allison
+Alderson, Priscilla
+Morrow, Virginia
+Greene, S.
+Hogan, D.
+--------------- 23 ---------------
+Clark, A.
+Moss, P.
+Mandell, N.
+Corsaro, W. A.
+Mayall, B.
+Punch, S.
+Boyden, J.
+Ennew, Judith
+Ansell, N.
+van Blerk, L.V.
+Schenk, K.
+Williamson, J.
+Montgomery, H.
+Adebe, T.
+Morrow, Virginia
+Alderson, Priscilla
+Morrow, Virginia
+--------------- 24 ---------------
+Hutchby, I.
+Ellis, Moran
+Mayall, B.
+Dunn, Judy
+Hutchby, I.
+Ellis, Moran
+Buckingham, D.
+Morrow, Virginia
+Mizen, P.
+Pole, C.
+Boulton, A.
+Ennew, Judith
+Morrow, Virginia
+Liebel, M.
+Katz, Cindy
+Lansdown, G.
+Boyden, J.
+Ennew, Judith
+Khan, S.
+Butler, M.
+Connolly, P.
+Smith, A.
+Kelly, B.
+Hart, R.
+Hood, S.
+Gardner, H.
+John, M.
+Willow, C.
+Christensen, P.
+James, Allison
+Alderson, Priscilla
+Alderson, Priscilla
+Goodey, C.
+Neale, B.
+Thomas, N.
+Alderson, Priscilla
+Sutcliffe, K.
+Curtis
+Stern, D.
+Als, H.
+Murray, L.
+Andrews, L.
+Alderson, Priscilla
+Hawthorne, J.
+Killen, M.
+Alderson, Priscilla
+Katz, Cindy
+Alderson, Priscilla
+--------------- 25 ---------------
+Lister, R.
+Lister, R.
+Weller, Susie
+Martin, E.
+--------------- 26 ---------------
+Waksler, F. C.
+Mayall, B.
+Foley, P. Roche
+Prout, Alan
+Bourdieu, P.
+Bendelow, G.
+Williams, S. J.
+Hochschild, A. R.
+Bluebond-Langner, Myra
+Mayall, B.
+Bendelow, G.
+Mayall, B.
+Postman, N.
+Hodge, R.
+Tripp, D.
+Barker, M.
+Petley, J.
+Jenks, Chris
+de Block, Liesbeth
+--------------- 27 ---------------
+Buckingham, D.
+Buckingham, D.
+Wasko, J.
+de Block, Liesbeth
+Buckingham, D.
+Livingstone, S.
+Holloway, S. L.
+Valentine, G.
+Cassell, J.
+Jenkins, H.
+Tapscott, D.
+Buckingham, D.
+Willett, R.
+Livingstone, S.
+de Block, Liesbeth
+Buckingham, D.
+Wells, K.
+Kaufman, N. H.
+Rizzini, I.
+--------------- 28 ---------------
+Woodhead, Martin
+Liebel, M.
+Katz, Cindy
+Kaufmann
+Rizzini, I.
+Boyden, J.
+Stephens, Sharon
+Burr, Rachel
+--------------- 29 ---------------
+Balagopalan, Sarada
+Nieuwenhuys, Olga
+Liebel, M.
+Overwien, B.
+Recknagel, A.
+Orellana, M.
+Robson, E.
+Panelli, R.
+Punch, S.
+Morrow, Virginia
+Pells, K.
+--------------- 30 ---------------
+Matthews, H.
+--------------- 31 ---------------
+Stephens, Sharon
+Ennew, Judith
+Morrow, Virginia
+Wells, K.
+Montgomery, H.
+Aitken, S.
+Holt, L.
+Kraftl, P.
+Horton, J.
+Tucker, F.
+Holloway, S. L.
+Valentine, G.
+Matthews, H.
+Smith, A. B.
+Ransome, Arthur
+--------------- 32 ---------------
+van Krieken, R.V.
+Sirota, Régine
+Sirota, Régine
+Brougère, G.
+Sirota, Régine
+Sirota, Régine
+Montandon, Cléopâtre
+Montandon, Cléopâtre
+Attias-Donfut, C.
+Segalen, M.
+Bourdieu, P.
+Boltanski
+Garnier, P.
+Braga
+--------------- 33 ---------------
+de Castro, L.R.
+Kosminsky, E. V.
+Stanciulescu, E.
+Strandell, H.
+Alanen, Leena
+Bass, Loretta
+Tomas, Catarina
+--------------- 34 ---------------
+Baraldi, C.
+van Daalen, Rineke
+Qvortrup, Jens
+--------------- 35 ---------------
+Lee, Nick
+Woodhead, Martin
+Aitken, S.
+Prout, Alan
+--------------- 36 ---------------
+James, A.L.
+Montgomery, H.
+Woodhead, Martin
+Alderson, Priscilla
+--------------- 37 ---------------
+Bhaskar, Roy
+Alderson, Priscilla
+Bourdieu, P.
+Connolly, P.
+Haines, E.
+Ingram, N.
+Alanen, Leena
+Bourdieu, P.
+Alanen, Leena
+Siisiäinen, M.
+Alanen, Leena
+Hengst, Heinz
+Bourdieu, P.
+Marsh, I.
+Webb, R.
+--------------- 39 ---------------
+Adebe, T.
+Aitken, S.
+Alanen, Leena
+Alanen, Leena
+Mayall, B.
+Alderson, Priscilla
+Alderson, Priscilla
+Goodey, C.
+Alderson, Priscilla
+Hawthorne, J.
+Killen, M.
+Alderson, Priscilla
+Morrow, Virginia
+Alderson, Priscilla
+Sutcliffe, K.
+Allport, G.
+Als, H.
+--------------- 40 ---------------
+Ambert, Anne-Marie
+Ansell, N.
+van Blerk, L.V.
+Ariès, P.
+Armstrong, D.
+Attias-Donfut, C.
+Segalen, M.
+Balagopalan, Sarada
+Baldwin, A.
+Baraldi, C.
+Barker, M.
+Petley, J.
+Bass, Loretta
+Becker, H.
+Bendelow, G.
+Mayall, B.
+Bendelow, G.
+Williams, S. J.
+Bettelheim, Bruno
+de Block, Liesbeth
+Buckingham, D.
+Bluebond-Langner, Myra
+Boulton, M. B.
+Bourdieu, P.
+Boyden, J.
+Boyden, J.
+Ennew, Judith
+Bradley, B. S.
+Brayield, A.
+--------------- 41 ---------------
+Bronfenbrenner, Urie
+Bronfenbrenner, Urie
+Kessel, F. S.
+Kessen, W.
+White, Sheldon
+Brougère, G.
+Buckingham, D.
+Buckingham, D.
+Willett, R.
+Burman, Erica
+Burr, Rachel
+Butler, M.
+Cassell, J.
+Jenkins, H.
+de Castro, L.R.
+Kosminsky, E. V.
+Christensen, P.
+James, Allison
+Christensen, P.
+O’Brien, M.
+Clark, A.
+Moss, P.
+Cohen, B.
+Moss, P.
+Petrie, Pat
+Wallace, C.
+Cole, Michael
+--------------- 42 ---------------
+Connolly, P.
+Connolly, P.
+Smith, A.
+Kelly, B.
+Corsaro, W. A.
+Craib, I.
+Cunningham, H.
+Danziger, K.
+Davin, Anna
+Dencik, L.
+Denzin, N. K.
+Dunn, Judy
+Durkheim, E.
+Edwards, R.
+Elkin, F. E.
+Handel, G.
+Engwall, K.
+Söderlind, I.
+Ennew, Judith
+Ennew, Judith
+Morrow, Virginia
+Flapan, D.
+Foley, P. Roche
+Foley, P. Roche
+Tucker, S.
+Fortes, M.
+--------------- 43 ---------------
+Gardner, H.
+Garnier, P.
+Goffman, E.
+Gottlieb, A.
+Graham, Hilary
+Greene, S.
+Greene, S.
+Hogan, D.
+Haines, E.
+Hall, G. Stanley
+Halldén, G.
+Hart, R.
+Hendrick, Harry
+Hengst, Heinz
+Hengst, Heinz
+Zeiher, H.
+Hochschild, A. R.
+Hodge, R.
+Tripp, D.
+Holdsworth, R.
+--------------- 44 ---------------
+Holloway, S. L.
+Valentine, G.
+Holt, L.
+Hood, S.
+Hutchby, I.
+Moran-Ellis, J.
+Ingram, N.
+James, Allison
+James, A.L.
+James, Allison
+Prout, Alan
+James, Allison
+Jenks, Chris
+Prout, Alan
+James, A.L.
+Jenkins, R.
+Jensen, A. M.
+McKee, L.
+John, M.
+Katz, Cindy
+Kaufman, N. H.
+Rizzini, I.
+Kehily, M. J.
+Swann, J.
+Keniston, K.
+--------------- 45 ---------------
+Kessel, F. S.
+Siegel, A. W.
+Kessen, W.
+Khan, S.
+Kraftl, P.
+Horton, J.
+Tucker, F.
+la Fontaine
+Lansdown, G.
+Lavalette, M.
+Hobbs, S.
+Lindsay, S.
+McKechnie, J.
+Lee, Nick
+Liebel, M.
+Liebel, M.
+Overwien, B.
+Recknagel, A.
+Liebel, M.
+Hanson, K.
+Saadi, I.
+Vandenhole, W.
+Liljeström, Rita
+Lister, R.
+Livingstone, S.
+Livingstone, S.
+Haddon, L.
+Görzig, A.
+Mandell, N.
+Marsh, I.
+Keating, M.
+Punch, S.
+Harden, J.
+Martin, E.
+--------------- 46 ---------------
+Matthews, H.
+Matthews, H.
+Smith, F.
+May, D.
+Strong, P.
+Mayall, B.
+Mayall, B.
+Foster, M. C.
+Mayall, B.
+Petrie, Pat
+Mayall, B.
+Zeiher, H.
+Maybin, J.
+Woodhead, Martin
+Mead, Margaret
+Wolfenstein, M.
+Mizen, P.
+Pole, C.
+Boulton, A.
+Montandon, Cléopâtre
+Montgomery, H.
+Montgomery, H.
+Burr, Rachel
+Woodhead, Martin
+Montgomery, H.
+Woodhead, Martin
+Moran-Ellis, J.
+Morrow, Virginia
+--------------- 47 ---------------
+Morrow, Virginia
+Pells, K.
+Morss, J.
+Murray, L.
+Andrews, L.
+Musgrove, F.
+Neale, B.
+New, C.
+David, M.
+Nieuwenhuys, Olga
+Oldman, David
+Olk, T.
+Opie, I.
+Opie, Peter
+Orellana, M.
+Parsons, T.
+Penn, H.
+Pilcher, J.
+Wagg, S.
+Postman, N.
+--------------- 48 ---------------
+Preuss-Lausitz, U.
+Büchner, P.
+Fischer-Kowalski, M.
+Geulen, D.
+Karsten, M. E.
+Kulke, C.
+Rabe-Kleberg, U.
+Rolff, H. G.
+Thunemeyer, B.
+Schültze
+Seidl, P.
+Zeiher, H.
+Zimmerman, P.
+Prout, Alan
+Prout, Alan
+James, Allison
+Punch, S.
+Qvortrup, Jens
+Qvortrup, Jens
+Bardy, Marjatta
+Sgritta, Giovanni
+Wintersberger, Helmut
+Ribbens, J.
+Richards, M.
+Light, P.
+Robson, E.
+Panelli, R.
+Punch, S.
+Rothman, David J.
+Sampson, E. E.
+--------------- 49 ---------------
+Schenk, K.
+Williamson, J.
+Sgritta, Giovanni
+Siisiäinen, M.
+Alanen, Leena
+Silverman, D.
+Sirota, Régine
+Skolnick, Arlene
+Smith, A. B.
+Gollop, M.
+Marshall, K.
+Nairn, K.
+Smith, Dorothy
+Stacey, Margaret
+Stanciulescu, E.
+Stephens, Sharon
+Stern, D.
+Strandell, H.
+--------------- 50 ---------------
+Strong, P.
+Tapscott, D.
+Therborn, G.
+Thomas, N.
+Thorne, Barrie
+Contratto, S.
+Tizard, Barbara
+Hughes, Martin
+Trent, J. W.
+van Daalen, Rineke
+van Krieken, R.V.
+Waksler, F. C.
+Wasko, J.
+Webb, R.
+Westergaard, H.
+Trobe, K.
+Steel, L.
+Weller, Susie
+Wells, K.
+Willow, C.
+Marchant, R.
+Kirby, P.
+Neale, B.
+Whiting, B.
+Wintersberger, Helmut
+Woodhead, Martin
+--------------- 51 ---------------
+Woodhead, Martin
+Montgomery, H.
+Wyness, M.
+Zeiher, H.
+Zelizer, Viviana
+Zinneker, J.
+Zuckerman, Michael

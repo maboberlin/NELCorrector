@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE indexdata PUBLIC
+        "-//JDOM//DTD validation 1.0//EN"
+        "config\ixml.dtd">
+<indexdata>
+<source />
+<fonts>
+<font id="0">
+	<fname>Arial</fname>
+	<aname>Arial</aname>
+</font>
+</fonts>
+<records />
+</indexdata>

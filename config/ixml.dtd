@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT indexdata (source, fonts, records) >
+<!ELEMENT source EMPTY >
+<!ATTLIST source
+	creator CDATA #REQUIRED
+	version CDATA #REQUIRED
+	time CDATA #REQUIRED >
+<!-- creator is code source, e.g., "software name" -->
+<!-- time value is UTC in this format: 2011-03-03T03:41:14 -->
+<!ELEMENT fonts (font+) >
+<!ELEMENT font (fname, aname) >
+<!ATTLIST font
+	id CDATA #REQUIRED >
+<!ELEMENT fname (#PCDATA) >
+<!ELEMENT aname (#PCDATA) >
+<!ELEMENT records (record)* >
+<!ATTLIST records
+	type CDATA #IMPLIED >
+<!-- type value is integer (Cindex: 1 for required last field) -->
+<!ELEMENT record (field+) >
+<!ATTLIST record
+	time CDATA #REQUIRED
+	user CDATA #IMPLIED
+	label CDATA #IMPLIED
+	deleted (y | n) #IMPLIED
+	type CDATA #IMPLIED >
+<!-- time value is UTC in this format: 2008-08-02T16:27:44 -->
+<!-- label value is integer -->
+<!-- type value can be "generated" (automatically generated) -->
+<!ELEMENT field (#PCDATA | text | literal | hide | sort)* >
+<!ATTLIST field
+	class CDATA #IMPLIED >
+<!-- class value can be "locator" -->
+<!ELEMENT text EMPTY >
+<!ATTLIST text
+	font CDATA #IMPLIED
+	color CDATA #IMPLIED
+	smallcaps ( y | n ) #IMPLIED
+	style ( b | i | u | bi | bu | iu | biu ) #IMPLIED
+	offset ( u | d ) #IMPLIED
+	>
+<!-- font and color attribute values are integers in range 0-31 -->
+<!ELEMENT literal EMPTY >
+<!-- literal: forces the succeeding character to be used in sort -->
+<!ELEMENT hide (#PCDATA) >
+<!-- hide: contains text to be ignored in sorting -->
+<!ELEMENT sort (#PCDATA) >
+<!-- sort: contains text to be used in sorting but not displayed -->
